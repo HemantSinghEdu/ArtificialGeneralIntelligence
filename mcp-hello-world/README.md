@@ -84,7 +84,9 @@ MCP Inspector is up and running at http://127.0.0.1:6274
 ```
 Just ctrl+click on the link to open the inspector tool
 
-11. In the VSCode, you would have also received a Session token, just copy that token and paste it in the Inspector --> Configuration --> Proxy Session Token 
+11. In the VSCode, you would have also received a Session token, just copy that token and paste it in the Inspector --> Configuration --> Proxy Session Token
+
+12. Also ensure that the Command field has the value `dotnet run`
 
 12. Finally, click on the Connect button on the Inspector tool page. If the connection is successful, you will see Tools section with "List Tools" option
 
